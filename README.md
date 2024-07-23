@@ -51,12 +51,11 @@
 
 2. Если всё отработалось в рамках ожидания — выгрузите схемы workflow для импорта в XML. Файлы с workflow и скриншоты workflow приложите к решению задания.
 
-```
+---
 [bugs](https://github.com/gaming4funNel/ci-cd-hw-1/blob/main/bugwf.xml) 
-```
-```
-[other](https://github.com/gaming4funNel/ci-cd-hw-1/blob/main/otherwf.xml.xml) 
-```
+---
+---
+[other](https://github.com/gaming4funNel/ci-cd-hw-1/blob/main/otherwf.xml) 
 ---
 
 ### Как оформить решение задания
